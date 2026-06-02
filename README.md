@@ -1,0 +1,2 @@
+# harukami
+LJ Thread repository
